@@ -1,0 +1,16 @@
+ai.com:443#优选域名 | ai.com
+fbi.gov:443#优选域名 | fbi.gov
+gov.se:443#优选域名 | gov.se
+gov.ua:443#优选域名 | gov.ua
+icook.tw:443#优选域名 | icook.tw
+ip.sb:443#优选域名 | ip.sb
+japan.com:443#优选域名 | japan.com
+nodejs.org:443#优选域名 | nodejs.org
+skk.moe:443#优选域名 | skk.moe
+speedtest.org:443#优选域名 | speedtest.org
+time.is:443#优选域名 | time.is
+visa.cn:443#优选域名 | visa.cn
+visa.com:443#优选域名 | visa.com
+w3.org:443#优选域名 | w3.org
+wto.org:443#优选域名 | wto.org
+zula.ir:443#优选域名 | zula.ir
